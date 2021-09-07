@@ -1,0 +1,17 @@
+D:\anacondaS\python.exe "C:/Local Repo/ENGN8536/Lab2/main.py"
+Current device: cuda
+Training... Current Epoch 1 Current Batch: 17900/18000 Loss:0.6948627233505249:  10%|1| 1/10 [01:08<10:17, 68.61s/it]Validation: epoch 1 | loss: 45.013869 | Accuracy: 55.350%
+Training... Current Epoch 2 Current Batch: 17900/18000 Loss:0.550990879535675:  10%|1| 1/10 [02:05<10:17, 68.61s/it] Validation: epoch 2 | loss: 24.744870 | Accuracy: 77.150%
+Training... Current Epoch 3 Current Batch: 17900/18000 Loss:0.5191288590431213:  30%|3| 3/10 [03:24<08:01, 68.74s/it]Validation: epoch 3 | loss: 21.393656 | Accuracy: 80.850%
+Training... Current Epoch 4 Current Batch: 17900/18000 Loss:0.39579394459724426:  40%|4| 4/10 [04:37<07:00, 70.00s/it]Validation: epoch 4 | loss: 20.284634 | Accuracy: 81.600%
+Training... Current Epoch 5 Current Batch: 17900/18000 Loss:0.3456193506717682:  50%|5| 5/10 [05:51<05:56, 71.20s/it]Validation: epoch 5 | loss: 21.490773 | Accuracy: 80.800%
+Training... Current Epoch 6 Current Batch: 17900/18000 Loss:0.34786567091941833:  60%|6| 6/10 [07:06<04:49, 72.27s/it]Validation: epoch 6 | loss: 20.642560 | Accuracy: 81.800%
+Training... Current Epoch 7 Current Batch: 17900/18000 Loss:0.2013319432735443:  70%|7| 7/10 [08:21<03:39, 73.14s/it]Validation: epoch 7 | loss: 21.158039 | Accuracy: 82.350%
+Training... Current Epoch 8 Current Batch: 17900/18000 Loss:0.27575525641441345:  80%|8| 8/10 [09:33<02:25, 72.72s/it]Validation: epoch 8 | loss: 19.986591 | Accuracy: 82.900%
+Training... Current Epoch 9 Current Batch: 17900/18000 Loss:0.1932709664106369:  90%|9| 9/10 [10:40<01:10, 70.97s/it]Validation: epoch 9 | loss: 19.860546 | Accuracy: 82.350%
+Training... Current Epoch 10 Current Batch: 17900/18000 Loss:0.21107803285121918: 100%|#| 10/10 [11:48<00:00, 70.03s/it]
+Validation: epoch 10 | loss: 22.323688 | Accuracy: 82.000%
+Training is finished
+Test: loss: 0.434204 | Accuracy: 82.525%
+
+Process finished with exit code 0

@@ -1,0 +1,5 @@
+/Cat-Dog-data
+*.zip
+*docx
+/.idea
+/__pycache__
